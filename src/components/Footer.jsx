@@ -11,9 +11,7 @@ const Footer = () => {
         <p>Sistema de visualización de tableros Power BI</p>
       </div>
       <div className="footer-links">
-        <a href="/contacto">Contacto</a>
-        <a href="/ayuda">Ayuda</a>
-        <a href="/terminos">Términos y Condiciones</a>
+        <a href="https://jhamfgroup.net/">Contactanos</a>
       </div>
     </footer>
   );

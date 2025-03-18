@@ -6,8 +6,8 @@ const Sidebar = ({ isLoggedIn, onSelectBoard }) => {
   const dashboards = [
     { id: 1, name: 'Herrera', url: 'https://app.powerbi.com/view?r=eyJrIjoiM2EyZTk1M2UtODk1OC00ZjAyLTkxNWQtMTQxNzQwZjg1NWZkIiwidCI6IjQ5YTRkYjliLWY4OTMtNGMxZi04Y2FiLTFiOWJkNzc1YWJkYiIsImMiOjR9' },
     { id: 2, name: 'Ensalud', url: 'https://app.powerbi.com/view?r=eyJrIjoiMzdkMzExM2MtNDE5Ni00ZThmLWFiMjMtMDY4NTJhZTM2YTcxIiwidCI6IjQ5YTRkYjliLWY4OTMtNGMxZi04Y2FiLTFiOWJkNzc1YWJkYiIsImMiOjR9' },
-    { id: 3, name: 'Bomberos', url: 'https://app.https://app.powerbi.com/view?r=eyJrIjoiYjkwNjE5YTktZjdlOC00YjZlLWFkYzctNzJlNDcxYjE5NzAzIiwidCI6IjQ5YTRkYjliLWY4OTMtNGMxZi04Y2FiLTFiOWJkNzc1YWJkYiIsImMiOjR9.com/dashboard3' },
-    { id: 4, name: 'Click', url: 'https://https://app.powerbi.com/view?r=eyJrIjoiY2IwM2MzNTctZTQ0Ni00MzhkLThmNTYtMzhjYjk4NWIwY2RhIiwidCI6IjQ5YTRkYjliLWY4OTMtNGMxZi04Y2FiLTFiOWJkNzc1YWJkYiIsImMiOjR9.powerbi.com/dashboard4' },
+    { id: 3, name: 'Bomberos', url: 'https://app.powerbi.com/view?r=eyJrIjoiYjkwNjE5YTktZjdlOC00YjZlLWFkYzctNzJlNDcxYjE5NzAzIiwidCI6IjQ5YTRkYjliLWY4OTMtNGMxZi04Y2FiLTFiOWJkNzc1YWJkYiIsImMiOjR9' },
+    { id: 4, name: 'Click', url: 'https://app.powerbi.com/view?r=eyJrIjoiY2IwM2MzNTctZTQ0Ni00MzhkLThmNTYtMzhjYjk4NWIwY2RhIiwidCI6IjQ5YTRkYjliLWY4OTMtNGMxZi04Y2FiLTFiOWJkNzc1YWJkYiIsImMiOjR9' },
     { id: 5, name: 'Mar 10', url: 'https://app.powerbi.com/view?r=eyJrIjoiYTljNTFjNzktMzM1ZS00N2I3LTlhYTQtM2EyZDYwMjZhYmI3IiwidCI6IjQ5YTRkYjliLWY4OTMtNGMxZi04Y2FiLTFiOWJkNzc1YWJkYiIsImMiOjR9' },
     { id: 6, name: 'Cedeño', url: 'https://app.powerbi.com/view?r=eyJrIjoiZDdiYWYyMTItMjQ4OC00YjczLTg2NTctNmYyMDEzODAwMTQ4IiwidCI6IjQ5YTRkYjliLWY4OTMtNGMxZi04Y2FiLTFiOWJkNzc1YWJkYiIsImMiOjR9' },
     { id: 7, name: 'ConstruCasa', url: 'https://app.powerbi.com/view?r=eyJrIjoiNTA5ZWNmYzYtOWRjNi00NzZiLWIxNjUtZDhjMWRkYTRmZmZiIiwidCI6IjQ5YTRkYjliLWY4OTMtNGMxZi04Y2FiLTFiOWJkNzc1YWJkYiIsImMiOjR9' },
