@@ -1,25 +1,29 @@
-import React, { useState } from 'react';
-import '../Header.css';
-import logo from '../assets/logo.png';
+import React, { useState } from "react";
+import "../Header.css";
 
 const Header = ({ isLoggedIn, username, onLogin, onLogout }) => {
-  const [user, setUser] = useState('');
-  const [password, setPassword] = useState('');
-  
+  const [user, setUser] = useState("");
+  const [password, setPassword] = useState("");
+
   const handleSubmit = (e) => {
     e.preventDefault();
     onLogin(user, password);
-    setPassword('');
+    setPassword("");
   };
-  
+
   return (
     <header className="app-header">
       <div className="logo-container">
-        <img src={logo} alt="Logo" className="app-logo" />
+        <img src="/logo.png" alt="Logo" className="app-logo" />
         <h1>Tableros Clientes</h1>
       </div>
-      
-      {!isLoggedIn ? (
+
+      {isLoggedIn ? (
+        <div className="user-info">
+          <span>Bienvenido, {username}</span>
+          <button onClick={onLogout}>Cerrar Sesión</button>
+        </div>
+      ) : (
         <form className="login-form" onSubmit={handleSubmit}>
           <input
             type="text"
@@ -37,11 +41,6 @@ const Header = ({ isLoggedIn, username, onLogin, onLogout }) => {
           />
           <button type="submit">Iniciar Sesión</button>
         </form>
-      ) : (
-        <div className="user-info">
-          <span>Bienvenido, {username}</span>
-          <button onClick={onLogout}>Cerrar Sesión</button>
-        </div>
       )}
     </header>
   );
