@@ -16,7 +16,7 @@ const Sidebar = ({ isLoggedIn, onSelectBoard }) => {
     { id: 10, name: 'Global', url: 'https://app.powerbi.com/view?r=eyJrIjoiZGZjMGM0NjUtNDgzOS00NjgzLWIwYTQtOWFiZTdkZjA5YjA5IiwidCI6IjQ5YTRkYjliLWY4OTMtNGMxZi04Y2FiLTFiOWJkNzc1YWJkYiIsImMiOjR9' },
     { id: 11, name: 'Juan Crisostomo', url: 'https://app.powerbi.com/view?r=eyJrIjoiYmY1MWYyNjAtMzllMS00MjVhLWFkNTAtNzEzMTA0Zjk2ODdmIiwidCI6IjQ5YTRkYjliLWY4OTMtNGMxZi04Y2FiLTFiOWJkNzc1YWJkYiIsImMiOjR9' },
     { id: 12, name: 'Productos JyC', url: 'https://app.powerbi.com/view?r=eyJrIjoiMDU4OWU5ZWYtOWVjMC00ZTM1LTllNWItOGMyN2U2YzNjYmRjIiwidCI6IjQ5YTRkYjliLWY4OTMtNGMxZi04Y2FiLTFiOWJkNzc1YWJkYiIsImMiOjR9' },
-    { id: 13, name: 'Rfast', url: 'https://app.powerbi.com/view?r=eyJrIjoiODc3OWQ5MDYtYTQ0Ni00YWM5LTljZDItYjcwODdjMWIzNDVjIiwidCI6IjQ5YTRkYjliLWY4OTMtNGMxZi04Y2FiLTFiOWJkNzc1YWJkYiIsImMiOjR9' },
+    { id: 13, name: 'Rfast', url: 'https://app.powerbi.com/view?r=eyJrIjoiOTkxNjVmMzUtMjZlNi00Yzg4LWE4YTMtOGNjMTQwYjhmZmI0IiwidCI6IjQ5YTRkYjliLWY4OTMtNGMxZi04Y2FiLTFiOWJkNzc1YWJkYiIsImMiOjR9' },
     { id: 14, name: 'Carnes Sebastian', url: 'https://app.powerbi.com/view?r=eyJrIjoiNmMwOWNjZjAtYWRkNC00MWUzLThiZjctYjg0ODE1N2ViOGUxIiwidCI6IjQ5YTRkYjliLWY4OTMtNGMxZi04Y2FiLTFiOWJkNzc1YWJkYiIsImMiOjR9' },
     { id: 15, name: 'Ip Salud', url: 'https://app.powerbi.com/view?r=eyJrIjoiMGQwYTM0OGItZDRiYS00NWQ1LTk2NjQtZTZhNjdlOWIzNzJhIiwidCI6IjQ5YTRkYjliLWY4OTMtNGMxZi04Y2FiLTFiOWJkNzc1YWJkYiIsImMiOjR9' },
     { id: 16, name: 'San Augustin', url: 'https://app.powerbi.com/view?r=eyJrIjoiOWI0NWNjMjItMjdlOC00NTg1LWE4NWEtNWFmNzY5N2ZmNmRjIiwidCI6IjQ5YTRkYjliLWY4OTMtNGMxZi04Y2FiLTFiOWJkNzc1YWJkYiIsImMiOjR9' },
