@@ -126,6 +126,11 @@ const Sidebar = ({ isLoggedIn, onSelectBoard }) => {
     },
     {
       id: 25,
+      name: "Vitalia",
+      url: "https://app.powerbi.com/view?r=eyJrIjoiZDNhNThkNTUtOWM1ZC00Yjg0LTg4ZjMtODVlMzQ0ODg0MTBjIiwidCI6IjY1OWZkNTU3LTAyMTUtNGI2Yy1hNjQ4LTVhYWEwMmVmMWJlNiIsImMiOjR9",
+    },
+    {
+      id: 26,
       name: "Hesego",
       url: "https://app.powerbi.com/view?r=eyJrIjoiNDIzMTFiMjUtZjM4ZS00YjUxLTk0MjctNzAzMTQwNTUwYzA1IiwidCI6IjQ5YTRkYjliLWY4OTMtNGMxZi04Y2FiLTFiOWJkNzc1YWJkYiIsImMiOjR9",
     },
