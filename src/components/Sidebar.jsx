@@ -12,7 +12,7 @@ const Sidebar = ({ isLoggedIn, onSelectBoard }) => {
     {
       id: 2,
       name: "Ensalud",
-      url: "https://app.powerbi.com/view?r=eyJrIjoiNTA4ZTE5MGQtNjgwYy00YmMzLTkwN2QtNmI2YzFhMTBiNzgzIiwidCI6IjY1OWZkNTU3LTAyMTUtNGI2Yy1hNjQ4LTVhYWEwMmVmMWJlNiIsImMiOjR9",
+      url: "https://app.powerbi.com/view?r=eyJrIjoiNTQxZTFlMTQtYWFlOS00MzU3LTgxMjctM2E0Y2JkM2U1ZDI2IiwidCI6IjY1OWZkNTU3LTAyMTUtNGI2Yy1hNjQ4LTVhYWEwMmVmMWJlNiIsImMiOjR9",
     },
     {
       id: 3,
