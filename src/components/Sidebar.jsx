@@ -12,12 +12,12 @@ const Sidebar = ({ isLoggedIn, onSelectBoard }) => {
     {
       id: 2,
       name: "Ensalud",
-      url: "https://app.powerbi.com/view?r=eyJrIjoiNTQxZTFlMTQtYWFlOS00MzU3LTgxMjctM2E0Y2JkM2U1ZDI2IiwidCI6IjY1OWZkNTU3LTAyMTUtNGI2Yy1hNjQ4LTVhYWEwMmVmMWJlNiIsImMiOjR9",
+      url: "https://app.powerbi.com/view?r=eyJrIjoiOGYxNjQ5YzQtMGY5ZS00NjhhLTlmZTctZjEyOGI3ZDIxMjRlIiwidCI6IjY1OWZkNTU3LTAyMTUtNGI2Yy1hNjQ4LTVhYWEwMmVmMWJlNiIsImMiOjR9",
     },
     {
       id: 3,
       name: "Bomberos",
-      url: "https://app.powerbi.com/view?r=eyJrIjoiM2Y0MTg5YTItY2NhOC00MDJiLWI4YzAtY2VlZmMyZjc3NjQ4IiwidCI6IjQ5YTRkYjliLWY4OTMtNGMxZi04Y2FiLTFiOWJkNzc1YWJkYiIsImMiOjR9",
+      url: "https://app.powerbi.com/view?r=eyJrIjoiM2Y0MTg5YTItY2NhOC00MDJiLWI4YzAtY2VlZmMyZjc3NjQ4IiwidCI6IjQ5YTRkYjliLWY4OTMtNGMxZi04Y2FiLTFiOWJkNzc1YWJkYiIsImMiOjR",
     },
     {
       id: 4,
