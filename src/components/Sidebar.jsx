@@ -62,7 +62,7 @@ const Sidebar = ({ isLoggedIn, onSelectBoard }) => {
     {
       id: 12,
       name: "Productos JyC",
-      url: "https://app.powerbi.com/view?r=eyJrIjoiY2IyNTczNjEtNTAwNS00NThkLWFmZDctMzY5ZDMyMDMxNjk4IiwidCI6IjY1OWZkNTU3LTAyMTUtNGI2Yy1hNjQ4LTVhYWEwMmVmMWJlNiIsImMiOjR9 ",
+      url: "https://app.powerbi.com/view?r=eyJrIjoiY2IyNTczNjEtNTAwNS00NThkLWFmZDctMzY5ZDMyMDMxNjk4IiwidCI6IjY1OWZkNTU3LTAyMTUtNGI2Yy1hNjQ4LTVhYWEwMmVmMWJlNiIsImMiOjR9",
     },
     {
       id: 13,
