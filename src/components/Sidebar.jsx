@@ -12,12 +12,12 @@ const Sidebar = ({ isLoggedIn, onSelectBoard }) => {
     {
       id: 2,
       name: "Ensalud",
-      url: "https://app.powerbi.com/view?r=eyJrIjoiM2Q0YWZiMmQtZmJkYi00OWI4LWJkMTYtZjZjMzBlYzQxN2U1IiwidCI6IjQ5YTRkYjliLWY4OTMtNGMxZi04Y2FiLTFiOWJkNzc1YWJkYiIsImMiOjR9",
+      url: "https://app.powerbi.com/view?r=eyJrIjoiOGYxNjQ5YzQtMGY5ZS00NjhhLTlmZTctZjEyOGI3ZDIxMjRlIiwidCI6IjY1OWZkNTU3LTAyMTUtNGI2Yy1hNjQ4LTVhYWEwMmVmMWJlNiIsImMiOjR9",
     },
     {
       id: 3,
       name: "Bomberos",
-      url: "https://app.powerbi.com/view?r=eyJrIjoiM2Y0MTg5YTItY2NhOC00MDJiLWI4YzAtY2VlZmMyZjc3NjQ4IiwidCI6IjQ5YTRkYjliLWY4OTMtNGMxZi04Y2FiLTFiOWJkNzc1YWJkYiIsImMiOjR9",
+      url: "https://app.powerbi.com/view?r=eyJrIjoiM2Y0MTg5YTItY2NhOC00MDJiLWI4YzAtY2VlZmMyZjc3NjQ4IiwidCI6IjQ5YTRkYjliLWY4OTMtNGMxZi04Y2FiLTFiOWJkNzc1YWJkYiIsImMiOjR",
     },
     {
       id: 4,
@@ -122,12 +122,12 @@ const Sidebar = ({ isLoggedIn, onSelectBoard }) => {
     {
       id: 24,
       name: "Medcol",
-      url: "https://app.powerbi.com/view?r=eyJrIjoiNzkzNGVhODAtN2E1NS00YTg4LTg3NmQtMGZlMDA5NTIxNjQxIiwidCI6IjY1OWZkNTU3LTAyMTUtNGI2Yy1hNjQ4LTVhYWEwMmVmMWJlNiIsImMiOjR9",
+      url: "https://app.powerbi.com/view?r=eyJrIjoiMzUwMGQ2NzQtY2ZhOS00ODY5LTg3MDEtNzliODEzMTNkZWJhIiwidCI6IjY1OWZkNTU3LTAyMTUtNGI2Yy1hNjQ4LTVhYWEwMmVmMWJlNiIsImMiOjR9",
     },
     {
       id: 25,
       name: "Vitalia",
-      url: "https://app.powerbi.com/view?r=eyJrIjoiZDNhNThkNTUtOWM1ZC00Yjg0LTg4ZjMtODVlMzQ0ODg0MTBjIiwidCI6IjY1OWZkNTU3LTAyMTUtNGI2Yy1hNjQ4LTVhYWEwMmVmMWJlNiIsImMiOjR9",
+      url: "https://app.powerbi.com/view?r=eyJrIjoiY2Y0YzcxNmYtNjc4ZS00MDE0LTkzMzItZGI0YjQwNzQzMTM0IiwidCI6IjY1OWZkNTU3LTAyMTUtNGI2Yy1hNjQ4LTVhYWEwMmVmMWJlNiIsImMiOjR9",
     },
     {
       id: 26,
